@@ -80,7 +80,7 @@ int main()
     }
    }
 
-   cout<<"Enter the vlues:"<<endl;
+   cout<<"Enter the values:"<<endl;
    for(int i=0;i<E;i++){
     int f,s,pathvalue;
     cin>>f>>s>>pathvalue;
